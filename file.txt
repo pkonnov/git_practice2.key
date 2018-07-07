@@ -1,1 +1,3 @@
 Myfirst line in project
+London is the capital og GB
+Moscow is the capital of Russia
