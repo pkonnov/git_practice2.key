@@ -1,2 +1,4 @@
 Myfirst line in project
 Paris is the capital of France
+\n
+\n
